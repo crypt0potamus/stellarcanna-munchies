@@ -1,0 +1,28 @@
+{
+  "name": "crypt0potamus/stellarcanna-munchies",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "crypt0potamus",
+      "email": "se.t@email.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "constants.php",
+      "admin/ajax.php",
+      "includes/options.php",
+      "includes/qr.php",
+      "includes/functions.php",
+      "includes/shortcodes.php"
+    ],
+    "classmap": [
+      "admin",
+      "includes"
+    ]
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}

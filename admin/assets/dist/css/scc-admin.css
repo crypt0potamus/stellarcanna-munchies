@@ -1,0 +1,11 @@
+.scc-admin-wrapper .scc-logo,
+.scc-admin-wrapper .scc-admin-title h1 {
+  display: inline-block;
+  vertical-align: middle;
+}
+.scc-admin-wrapper #scc-indicator {
+  width: 100px;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
