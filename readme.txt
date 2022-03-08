@@ -36,7 +36,7 @@ No! This plugin is generating a QR code to your public wallet address. No access
 
 = How can I find my wallet address? =
 
-You can use https://id.lobstr.co/ to get Cannacoin. Cannacoin is on the Stellar/XLM network. It can be stored and traded on native Stellar wallets.
+You can use https://lobstr.co/ to get Cannacoin. Cannacoin is on the Stellar/XLM network. It can be stored and traded on native Stellar wallets.
 
 To learn more: https://www.stellarcannacoin.org/
 
