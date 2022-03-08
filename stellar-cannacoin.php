@@ -2,12 +2,10 @@
 
 /**
  * Plugin Name: StellarCanna Munchies
- * Description: ‌Generate link and QR image to receive StellarCanna Munchies donation.
+ * Description: ‌Generate QR image to receive StellarCannacoin donations.
  * Version:     1.0.0
  * Author:      crypt0potamus
- * Author URI:      https://farahani.dev
- * Text Domain: stellarcanna-munchies
- * Domain Path: /languages
+ * Author URI:      https://www.stellarcannacoin.org/
  * License:     GPLv3
  */
 
