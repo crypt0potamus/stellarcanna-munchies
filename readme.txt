@@ -9,29 +9,32 @@ License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Donate link: GDHFTNSNCH3DU2JYVHLUHRNLYJFYGD2WL6FXYJPADK36JLVI5S3LNT4L
 
-‌Generate QR image to receive StellarCannacoin donations.
-
 
 == Description ==
 
-‌Generate QR image to receive StellarCannacoin donations. This is the official plugin of StellarCanna Munchies and it is a community project made by love for StellarCannaCoin.
+‌Generate QR image to receive StellarCannacoin donations. This is the official plugin of StellarCanna Munchies and it is a community project made with love for StellarCannaCoin.
+
+We are happy to announce our latest project: StellarCanna Munchies. A WordPress Plugin that allows website owners to receive StellarCannacoin donations by displaying a small QR Code banner on webpages!
+
+We are working to submit it on the WordPress plugins market, but for now, you can get it for FREE by downloading the plugin and uploading it manually to your WordPress website!
+
+[See Demo Video: https://www.loom.com/share/4978867de1b44c3fbb13f21a56937be1]
 
 
 == Installation ==
 
-1. Open WordPress admin, go to Plugins, click Add New
-2. Enter "stellarcanna munchies" in search and hit Enter
-3. Click "Install Now" and activate the plugin.
-4. Go to Settings > StellarCanna Munchies and enter your lobstr wallet Stellar address.
-5. Double check the address with your lobstr image.
-6. Use [stellarcanna_munchies] shortcode to show the QR code on the website.
+1. Download the Plugin code: https://mega.nz/file/iC5FSKxA#mHqokB-VL9dFRDfASVX1U8uYrdYuBf93HSsKJCoPBM8
+2. Open WordPress Admin > Plugins > Upload Plugin > Choose File > click on 'StellarCanna-Munchies-main.zip' > Install Now > Activate Plugin
+3. Go to Settings > 'StellarCanna Munchies' and enter your StellarCannacoin wallet address.
+4. Double check the address with your LOBSTR image.
+5. Use [stellarcanna_munchies] shortcode to show the QR code on the website.
 
 
 == Frequently Asked Questions ==
 
 = Does this plugin needs access to the wallet? =
 
-No! This plugin is generating a QR code to your public wallet address. No access to any type of private keys or wallets are needed. Never share your private keys!
+No! This plugin is generating a QR code to your public wallet address. No access of any type to private keys or wallets are needed. Never share your private keys!
 
 
 = How can I find my wallet address? =
