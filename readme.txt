@@ -23,7 +23,7 @@ We are working to submit it on the WordPress plugins market, but for now, you ca
 
 == Installation ==
 
-1. Download the Plugin code: https://mega.nz/file/iC5FSKxA#mHqokB-VL9dFRDfASVX1U8uYrdYuBf93HSsKJCoPBM8
+1. Download the Plugin code: Please see "download-the-plugin-code.png" OR click the green CODE button (above in the file-navigation) and Download ZIP
 2. Open WordPress Admin > Plugins > Upload Plugin > Choose File > click on 'StellarCanna-Munchies-main.zip' > Install Now > Activate Plugin
 3. Go to Settings > 'StellarCanna Munchies' and enter your StellarCannacoin wallet address.
 4. Double check the address with your LOBSTR image.
